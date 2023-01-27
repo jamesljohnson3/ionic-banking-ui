@@ -22,7 +22,7 @@ npm install
 ionic serve
 ```
 
-Alternatively, you can add the iOS, Android platform and run natively.
+Alternatively, you can add the iOS, Android platform and ruln natively.
 
 # Are you on Twitter? Lets connect [@93alan](https://twitter.com/93alan)
 # Have you checked out Ionic React Hub yet? [Ionic React Hub](https://ionicreacthub.com)
